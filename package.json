@@ -1,0 +1,16 @@
+{
+  "name": "websocket_server",
+  "version": "1.0.0",
+  "description": "react-time chat using webSocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "binqie",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "ws": "^8.13.0"
+  }
+}
